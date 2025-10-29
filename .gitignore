@@ -1,0 +1,44 @@
+# ==================================
+# Build Artifacts (Maven/Gradle)
+# ==================================
+target/
+.mvn/
+build/
+
+# ==================================
+# IDE Files (IntelliJ)
+# ==================================
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# ==================================
+# IDE Files (Eclipse / STS)
+# ==================================
+.settings/
+.classpath
+.project
+.factorypath
+.springBeans
+.sts4-cache
+.apt_generated
+
+# ==================================
+# IDE Files (VS Code)
+# ==================================
+.vscode/
+
+# ==================================
+# IDE Files (NetBeans)
+# ==================================
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# ==================================
+# OS Files
+# ==================================
+.DS_Store
