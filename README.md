@@ -21,7 +21,7 @@ This is a backend-only, portfolio project demonstrating a modern Java tech stack
 
 * **Framework:** Spring Boot
 * **Security:** Spring Security, JWT
-* **Database:** Spring Data JPA, PostgreSQL (or MySQL)
+* **Database:** Spring Data JPA, MySQL
 * **Testing:** H2 Database (for in-memory testing)
 * **Build:** Maven
 * **Utilities:** Lombok, `jakarta.validation`
